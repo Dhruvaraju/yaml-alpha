@@ -1,6 +1,7 @@
 
-
-# yaml-alpha
+- [YAML](#yaml)
+- [features:](#features)
+- [What is YAML?](#what-is-yaml)
 
 ## YAML
 Stands for **Yet Another Markup Language**, introduced in 2001 by Ingy dotnet, Clark Evans and Oren ben-Kiki. This mainly works with agile languages like python, pert,ruby etc., YAML contains common date types like scalars, lists and arrays. The syntax of yaml mainly uses indentation, dashes, colons. Yaml is mainly is used as configuration files, for storing data.
